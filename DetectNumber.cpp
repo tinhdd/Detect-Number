@@ -11,7 +11,7 @@ using namespace std;
 Mat src; 
 Mat src_gray;
 int thresh = 100;
-int max_thresh = 255;
+int max_thresh = 250;
 RNG rng(12345);
 
 /// Function header
